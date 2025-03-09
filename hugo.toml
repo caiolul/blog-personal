@@ -1,4 +1,4 @@
-baseURL = 'blog.caiolul.com'
+baseURL = 'https://blog.caiolul.com'
 languageCode = 'en-us'
 title = 'Blog - caiolul'
 theme = 'risotto'
@@ -26,7 +26,7 @@ description = 'This site is a personal blog where I will share my knowledge and 
 # unicode/emoji logo:
 # logo = '👨🏻‍💻'
 # or use an image:
-logo_image = 'images/logo_blog.svg'
+logo_image = 'https://blog.caiolul.com/images/logo_blog.svg'
 
 [[params.socialLinks]]
 icon = 'fa-brands fa-github'
