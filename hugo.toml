@@ -1,0 +1,99 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Blog - caiolul'
+theme = 'risotto'
+author = 'Caio Lucena'
+
+paginate = 10
+DefaultContentLanguage = 'en'
+enableInlineShortcodes = true
+ignoreErrors = ['error-remote-getjson']
+
+# Automatically add content sections to main menu
+sectionPagesMenu = 'main'
+
+[params]
+noindex = false
+
+[params.theme]
+palette = 'tokyo-night-dark'
+
+# Sidebar: about/bio
+[params.about]
+title = 'Blog'
+description = 'This site is a personal blog where I will share my knowledge and record my ideas (no matter how crazy they may seem XD).'
+# unicode/emoji logo:
+# logo = '👨🏻‍💻'
+# or use an image:
+logo_image = 'images/logo_blog.svg'
+
+[[params.socialLinks]]
+icon = 'fa-brands fa-github'
+title = 'GitHub'
+url = 'https://github.com/caiolul'
+
+[[params.socialLinks]]
+icon = 'fa-solid fa-envelope'
+title = 'Email'
+url = 'mailto:contato@caiolul.com'
+
+[[params.socialLinks]]
+icon = 'fa-brands fa-instagram'
+title = 'Instagam'
+url = 'https://www.instagram.com/caio_lul/'
+
+[menu]
+  [[menu.main]]
+    name = 'Posts'
+    url = '/blog/posts'
+    weight = 10
+  [[menu.main]]
+    identifier = 'resume'
+    name = 'Resume'
+    url = '/blog/resume'
+    weight = 20
+
+[taxonomies]
+category = 'categories'
+tag = 'tags'
+series = 'series'
+
+# For hugo >= 0.60.0, enable inline HTML
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup]
+
+  # Table of contents
+  # Add toc = true to content front matter to enable
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel   = 3
+    ordered    = true
+
+[privacy]
+
+  [privacy.vimeo]
+    disabled = false
+    simple = true
+
+  [privacy.twitter]
+    disabled = false
+    enableDNT = true
+    simple = true
+
+  [privacy.instagram]
+    disabled = false
+    simple = true
+
+  [privacy.youtube]
+    disabled = false
+    privacyEnhanced = true
+
+[services]
+
+  [services.instagram]
+    disableInlineCSS = true
+
+  [services.twitter]
+    disableInlineCSS = true
