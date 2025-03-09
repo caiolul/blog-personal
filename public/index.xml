@@ -1,33 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog - caiolul</title><link>https://example.org/</link><description>Recent content on Blog - caiolul</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 22 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml"/><item><title>My First Post</title><link>https://example.org/blog/posts/my-first-post/</link><pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate><guid>https://example.org/blog/posts/my-first-post/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
-&lt;p>This is &lt;strong>bold&lt;/strong> text, and this is &lt;em>emphasized&lt;/em> text.&lt;/p>
-&lt;p>Visit the &lt;a href="https://gohugo.io">Hugo&lt;/a> website!&lt;/p></description></item><item><title>Tutorial: Install Hugo by Asdf</title><link>https://example.org/blog/posts/install-hugo-by-asdf/</link><pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate><guid>https://example.org/blog/posts/install-hugo-by-asdf/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
-&lt;p>This is a guide to install Hugo by Asdf.&lt;/p>
-&lt;h2 id="install-asdf">Install Asdf&lt;/h2>
-&lt;p>First, install Asdf by following the instructions on the &lt;a href="https://asdf-vm.com/#/core-manage-asdf-vm">official website&lt;/a>.&lt;/p>
-&lt;h2 id="install-hugo">Install Hugo&lt;/h2>
-&lt;p>After installing Asdf, run the following command to install Hugo:&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>asdf plugin add hugo
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e"># or&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>asdf plugin add hugo https://github.com/NeoHsu/asdf-hugo.git
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Then, install the desired version of Hugo:&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e"># Show all installable versions&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>asdf list-all hugo
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e"># Install specific version&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>asdf install hugo latest
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e"># Set a version globally (on your ~/.tool-versions file)&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>asdf global hugo latest
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e"># Now hugo commands are available&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>hugo version
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Extended for builds for Sass/SCSS:&lt;/p></description></item><item><title/><link>https://example.org/blog/resume/test/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/blog/resume/test/</guid><description>&lt;h1 id="introduction">Introduction&lt;/h1>
-&lt;p>This is my personal blog. I will share my thoughts, experiences, and knowledge here. I hope you enjoy reading it.&lt;/p>
-&lt;h1 id="recent-posts">Recent Posts&lt;/h1>
-&lt;p>Here are some of my recent posts:&lt;/p>
-&lt;ul>
-&lt;li>&lt;a href="https://example.org/blog/posts/install-hugo-by-asdf/">Tutorial: Install Hugo by Asdf&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://example.org/blog/posts/my-first-post/">My First Post&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h1 id="about-me">About Me&lt;/h1>
-&lt;p>Hi, my name is caiolul. I am a developer. I love coding and learning new things. I am passionate about technology and software development. I am always looking for new challenges and opportunities to grow. I am excited to share my knowledge and experiences with you. I hope you find my blog interesting and useful. If you have any questions or suggestions, please feel free to contact me. I would love to hear from you. Thank you for visiting my blog. I hope you have a great day!&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog - caiolul</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Blog - caiolul</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/blog/posts/my-first-post/</link>
+      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tutorial: Install Hugo by Asdf</title>
+      <link>http://localhost:1313/blog/posts/install-hugo-by-asdf/</link>
+      <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/posts/install-hugo-by-asdf/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is a guide to install Hugo by Asdf.&lt;/p&gt;&#xA;&lt;h2 id=&#34;install-asdf&#34;&gt;Install Asdf&lt;/h2&gt;&#xA;&lt;p&gt;First, install Asdf by following the instructions on the &lt;a href=&#34;https://asdf-vm.com/#/core-manage-asdf-vm&#34;&gt;official website&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;install-hugo&#34;&gt;Install Hugo&lt;/h2&gt;&#xA;&lt;p&gt;After installing Asdf, run the following command to install Hugo:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;asdf plugin add hugo&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# or&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;asdf plugin add hugo https://github.com/NeoHsu/asdf-hugo.git&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Then, install the desired version of Hugo:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# Show all installable versions&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;asdf list-all hugo&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# Install specific version&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;asdf install hugo latest&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# Set a version globally (on your ~/.tool-versions file)&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;asdf global hugo latest&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# Now hugo commands are available&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;hugo version&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Extended for builds for Sass/SCSS:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/blog/resume/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/resume/test/</guid>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;&#xA;&lt;p&gt;This is my personal blog. I will share my thoughts, experiences, and knowledge here. I hope you enjoy reading it.&lt;/p&gt;&#xA;&lt;h1 id=&#34;recent-posts&#34;&gt;Recent Posts&lt;/h1&gt;&#xA;&lt;p&gt;Here are some of my recent posts:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/blog/posts/install-hugo-by-asdf/&#34;&gt;Tutorial: Install Hugo by Asdf&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/blog/posts/my-first-post/&#34;&gt;My First Post&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;about-me&#34;&gt;About Me&lt;/h1&gt;&#xA;&lt;p&gt;Hi, my name is caiolul. I am a developer. I love coding and learning new things. I am passionate about technology and software development. I am always looking for new challenges and opportunities to grow. I am excited to share my knowledge and experiences with you. I hope you find my blog interesting and useful. If you have any questions or suggestions, please feel free to contact me. I would love to hear from you. Thank you for visiting my blog. I hope you have a great day!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
