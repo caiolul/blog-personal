@@ -1,10 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog - caiolul</title><link>https://blog.caiolul.com/blog/resume/</link><description>Recent content on Blog - caiolul</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://blog.caiolul.com/blog/resume/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://blog.caiolul.com/blog/resume/test/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.caiolul.com/blog/resume/test/</guid><description>&lt;h1 id="introduction">Introduction&lt;/h1>
-&lt;p>This is my personal blog. I will share my thoughts, experiences, and knowledge here. I hope you enjoy reading it.&lt;/p>
-&lt;h1 id="recent-posts">Recent Posts&lt;/h1>
-&lt;p>Here are some of my recent posts:&lt;/p>
-&lt;ul>
-&lt;li>&lt;a href="https://blog.caiolul.com/blog/posts/install-hugo-by-asdf/">Tutorial: Install Hugo by Asdf&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://blog.caiolul.com/blog/posts/my-first-post/">My First Post&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h1 id="about-me">About Me&lt;/h1>
-&lt;p>Hi, my name is caiolul. I am a developer. I love coding and learning new things. I am passionate about technology and software development. I am always looking for new challenges and opportunities to grow. I am excited to share my knowledge and experiences with you. I hope you find my blog interesting and useful. If you have any questions or suggestions, please feel free to contact me. I would love to hear from you. Thank you for visiting my blog. I hope you have a great day!&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog - caiolul</title>
+    <link>https://blog.caiolul.com/blog/resume/</link>
+    <description>Recent content on Blog - caiolul</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://blog.caiolul.com/blog/resume/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://blog.caiolul.com/blog/resume/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.caiolul.com/blog/resume/test/</guid>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;&#xA;&lt;p&gt;This is my personal blog. I will share my thoughts, experiences, and knowledge here. I hope you enjoy reading it.&lt;/p&gt;&#xA;&lt;h1 id=&#34;recent-posts&#34;&gt;Recent Posts&lt;/h1&gt;&#xA;&lt;p&gt;Here are some of my recent posts:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://blog.caiolul.com/blog/posts/install-hugo-by-asdf/&#34;&gt;Tutorial: Install Hugo by Asdf&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://blog.caiolul.com/blog/posts/my-first-post/&#34;&gt;My First Post&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;about-me&#34;&gt;About Me&lt;/h1&gt;&#xA;&lt;p&gt;Hi, my name is caiolul. I am a developer. I love coding and learning new things. I am passionate about technology and software development. I am always looking for new challenges and opportunities to grow. I am excited to share my knowledge and experiences with you. I hope you find my blog interesting and useful. If you have any questions or suggestions, please feel free to contact me. I would love to hear from you. Thank you for visiting my blog. I hope you have a great day!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

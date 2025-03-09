@@ -1,24 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Text on Blog - caiolul</title><link>https://blog.caiolul.com/tags/text/</link><description>Recent content in Text on Blog - caiolul</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 22 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.caiolul.com/tags/text/index.xml" rel="self" type="application/rss+xml"/><item><title>My First Post</title><link>https://blog.caiolul.com/blog/posts/my-first-post/</link><pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate><guid>https://blog.caiolul.com/blog/posts/my-first-post/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
-&lt;p>This is &lt;strong>bold&lt;/strong> text, and this is &lt;em>emphasized&lt;/em> text.&lt;/p>
-&lt;p>Visit the &lt;a href="https://gohugo.io">Hugo&lt;/a> website!&lt;/p></description></item><item><title>Tutorial: Install Hugo by Asdf</title><link>https://blog.caiolul.com/blog/posts/install-hugo-by-asdf/</link><pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate><guid>https://blog.caiolul.com/blog/posts/install-hugo-by-asdf/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
-&lt;p>This is a guide to install Hugo by Asdf.&lt;/p>
-&lt;h2 id="install-asdf">Install Asdf&lt;/h2>
-&lt;p>First, install Asdf by following the instructions on the &lt;a href="https://asdf-vm.com/#/core-manage-asdf-vm">official website&lt;/a>.&lt;/p>
-&lt;h2 id="install-hugo">Install Hugo&lt;/h2>
-&lt;p>After installing Asdf, run the following command to install Hugo:&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>asdf plugin add hugo
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e"># or&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>asdf plugin add hugo https://github.com/NeoHsu/asdf-hugo.git
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Then, install the desired version of Hugo:&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e"># Show all installable versions&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>asdf list-all hugo
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e"># Install specific version&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>asdf install hugo latest
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e"># Set a version globally (on your ~/.tool-versions file)&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>asdf global hugo latest
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e"># Now hugo commands are available&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>hugo version
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Extended for builds for Sass/SCSS:&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Text on Blog - caiolul</title>
+    <link>https://blog.caiolul.com/tags/text/</link>
+    <description>Recent content in Text on Blog - caiolul</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blog.caiolul.com/tags/text/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://blog.caiolul.com/blog/posts/my-first-post/</link>
+      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.caiolul.com/blog/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tutorial: Install Hugo by Asdf</title>
+      <link>https://blog.caiolul.com/blog/posts/install-hugo-by-asdf/</link>
+      <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.caiolul.com/blog/posts/install-hugo-by-asdf/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is a guide to install Hugo by Asdf.&lt;/p&gt;&#xA;&lt;h2 id=&#34;install-asdf&#34;&gt;Install Asdf&lt;/h2&gt;&#xA;&lt;p&gt;First, install Asdf by following the instructions on the &lt;a href=&#34;https://asdf-vm.com/#/core-manage-asdf-vm&#34;&gt;official website&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;install-hugo&#34;&gt;Install Hugo&lt;/h2&gt;&#xA;&lt;p&gt;After installing Asdf, run the following command to install Hugo:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;asdf plugin add hugo&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# or&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;asdf plugin add hugo https://github.com/NeoHsu/asdf-hugo.git&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Then, install the desired version of Hugo:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# Show all installable versions&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;asdf list-all hugo&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# Install specific version&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;asdf install hugo latest&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# Set a version globally (on your ~/.tool-versions file)&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;asdf global hugo latest&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# Now hugo commands are available&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;hugo version&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Extended for builds for Sass/SCSS:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
