@@ -4,7 +4,8 @@ title = 'Blog - caiolul'
 theme = 'risotto'
 author = 'Caio Lucena'
 
-paginate = 10
+[pagination]
+pagerSize = 10
 DefaultContentLanguage = 'en'
 enableInlineShortcodes = true
 ignoreErrors = ['error-remote-getjson']
@@ -77,7 +78,7 @@ unsafe = true
     disabled = false
     simple = true
 
-  [privacy.twitter]
+  [privacy.x]
     disabled = false
     enableDNT = true
     simple = true
@@ -95,5 +96,5 @@ unsafe = true
   [services.instagram]
     disableInlineCSS = true
 
-  [services.twitter]
+  [services.x]
     disableInlineCSS = true
