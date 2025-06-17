@@ -23,10 +23,13 @@ Bachelor's Degree in Computer Science
 *September 2024 - Present*  
 **Python Developer**
 - Contributed to the development of features for the Open Source project
+- Implemented front-end <> back-end integrations through REST API
+- Helped fine tune models
+- Agent and tooling construction using LangGraph and talkd.ai
 
 ### Mais Retorno
 *September 2021 - November 2024*  
-**Backend Developer II**
+**Backend Developer PL II**
 - Managed company's data API (creation of new features, maintenance, and testing)
 - Developed new strategies for data extraction and insertion (Maintenance of data pipelines)
 
@@ -42,7 +45,7 @@ Bachelor's Degree in Computer Science
 - **G-Suite:** Gmail, Docs, Presentation
 - **Programming Languages:** Python, JavaScript, TypeScript, Node.js
 - **Mobile Development:** React Native
-- **Web Development:** ReactJS
+- **Web Development:** ReactJS, HTML, Css, Bootstrap
 
 ## Personal Projects
 
